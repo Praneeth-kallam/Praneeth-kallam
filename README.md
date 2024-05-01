@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Praneeth-kallam
-- 👀 I’m interested in python, java, Web-Developemnt.
+- 👀 I’m interested in Java, Backend-Developemnt.
 - 🌱 I’m currently learning Micro Services and Full-Stack Development.
-- 💞️ I’m looking to collaborate on Android and Web Application Development
+- 💞️ I’m looking to collaborate on Open Source and Backend Development
 - 📫 How to reach me pkallam@asu.edu
 
 <!---
